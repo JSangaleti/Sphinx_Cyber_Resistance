@@ -1,5 +1,6 @@
 .. _Godot: https://godotengine.org/
 .. _Docker: https://www.docker.com/
+.. _LibreSprite: https://libresprite.github.io/#!/
 
 Tecnologias utilizadas
 ======================
@@ -9,7 +10,12 @@ Tecnologias utilizadas
 
 A `Godot`_ é um motor (ou *engine*) e plataforma *Open-Source* de desenvolvimento de jogos, seja 2D ou 3D (no caso da versão 4). Os códigos nela escritos são feitos na linguagem GDScript, cuja sintáxe é similar ao Python 3.
 
+Em nosso projeto, ela foi utilizada como base de tudo
+
 `Docker`_
 ---------
 
 O Docker 
+
+`LibreSprite`_
+--------------

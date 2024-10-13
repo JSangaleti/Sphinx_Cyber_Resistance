@@ -1,5 +1,5 @@
-Sobre nosso projeto
-===================
+Sobre o nosso projeto
+=====================
 
 Resumo
 ------
@@ -11,4 +11,6 @@ Sendo assim, objetiva-se o desenvolvimento de uma plataforma gamificada para o e
 
 Pretende-se adotar uma metodologia investigativa para identificar as principais formas de gamificar atividades em cibersegurança e usar tecnologias atuais para prover um ambiente gráfico em conjunto de um enredo que engaje os alunos nos estudos. Como resultados, espera-se obter um protótipo funcional de jogo educacional, que possibilite adicionar novos módulos educacionais a partir de novas pesquisas ou projetos de desenvolvimento tecnológico.
 
-`Veja o artigo completo aqui! <https://docs.google.com/document/d/1l00M8q8OG_o0MDN-NuUi-8v9xy-QkaR2WW377ktjONE/edit?usp=sharing>`_
+.. seealso::
+
+    `Artigo completo aqui! <https://docs.google.com/document/d/1l00M8q8OG_o0MDN-NuUi-8v9xy-QkaR2WW377ktjONE/edit?usp=sharing>`_

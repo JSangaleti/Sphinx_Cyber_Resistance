@@ -1,3 +1,4 @@
+.. referências das tecnologias utilizadas que aqui estão documentadas
 .. _Godot: https://godotengine.org/
 .. _Docker: https://www.docker.com/
 .. _LibreSprite: https://libresprite.github.io/#!/

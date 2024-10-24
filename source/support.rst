@@ -3,7 +3,9 @@ Apoie-nos!
 
 Nossas redes sociais
 --------------------
-`Instagram <>`_
+Nosso perfil do `Instagram <https://>`_;
+
+Nosso canal do `Telegram <https://t.me/+mBE8OfpBsZ81Mzkx>`_;
 
 
 Projetos parecidos

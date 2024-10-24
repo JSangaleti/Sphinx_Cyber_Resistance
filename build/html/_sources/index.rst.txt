@@ -10,7 +10,6 @@ Cyber Resistance
    about
    techs
    lit_rev
-   contact
    support
 
 

@@ -42,7 +42,7 @@ Dessa forma, em nosso projeto utilizamos essa tecnologia para criar cronogramas,
 ---------
 O `Sphinx`_ é uma ferramenta que gera documentação a partir de arquivos \'.rst\' (reStructuredText) com sintaxe similar ao Markdown. Apesar de não possuir uma documentação muito intuitiva, é bastante poderosa, pois é eficiente e gera o conteúdo em diversos formatos, além de possuir *plugins* que a complementam.
 
-Note, inclusive, que esta documentação é utilizada sob o uso do `Sphinx`_.
+Toda esta documentação foi gerada a partir do `Sphinx`_.
 
 `Git`_/`GitHub`_
 ----------------

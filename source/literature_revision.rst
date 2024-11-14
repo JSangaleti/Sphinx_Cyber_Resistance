@@ -70,7 +70,7 @@ Artigos
 `A Renewed Approach to Serious Games for Cyber Security (2015)`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Este artigo bastante citado traz conceitos do âmbito dos *serious games*, análises críticas de materiais existentes na área e, com base neles, uma proposta de estrutura, apresentando, inclusive, abordagens técnicas (do ponto de vista do desenvolvimento de jogos) para atingir esse modelo criado.
+Este artigo traz conceitos do âmbito dos *serious games*, análises críticas de materiais existentes na área de gamificação e, com base neles, uma proposta de estrutura de desevolvimento de jogos gamificados, apresentando, inclusive, abordagens técnicas para atingir esse modelo criado.
 
 Alguns dos materiais existentes são:
 
@@ -82,7 +82,7 @@ A proposta de estrutura de projeto e desenvolvimento do jogo apresentada consist
 
 * Análise preliminar: assim como em qualquer projeto, a análise preliminar é crucial; a etapa de análise preliminar é designada para o estudo do mercado-alvo, dos seus produtos existentes e público-alvo, traçando, assim, um escopo para que seja atingido, efetivamente, o objetivo principal. Também é nesta fase que se determina o orçamento, prazo, capacidade do time de desenvolvimento, todos os fatores que influenciam no sucesso ou fracasso do projeto. Desta forma, este documento visa buscar pontos fortes e fracos de materiais já existentes no mercado, planejando formas de evitar que esses pontos fracos estejam presentes em nosso projeto, assim como possíveis implementações de pontos fortes que venham a ser interessantes de acordo com nosso objetivo e escopo.
 
-* Projeto (*design*):
+* Projeto (*design*): os desenvolvedores devem se atentar a algumas estruturas de ensino e de jogo ao projetar; para isso, são disponibilizadas as estruturas DPE (*Design, Play, Experience*) e SGDA (*Serious Game Design Assesment*). A estrutura DPE enfatiza a importância da experiência do jogador sobre as mecânicas e estética de jogo. A estrutura SGDA contempla os propósitos de entretenimento e seriedade de um jogo, com os seguintes componentes: propósito; conteúdo; ficção; mecânica; estética; sistema de jogo.
 
 * Desenvolvimento:
 

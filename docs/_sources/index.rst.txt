@@ -9,7 +9,7 @@ Cyber Resistance
 
    about
    techs
-   lit_rev
+   literature_revision
    support
 
 

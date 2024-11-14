@@ -19,7 +19,7 @@
 
 project = 'Cyber Resistance'
 copyright = '2024, Universidade Tecnológica Federal do Paraná - Campus de Campo Mourão'
-author = 'UTFPR'
+author = 'Juliano Rubio Sangaleti, Maria Vitória Polido de Souza, Prof. Dr. Rodrigo Campiolo, Prof. Dr. Marcos Silvano, Prof. Dr. Luiz Arthur Feitosa'
 
 # The full version, including alpha/beta/rc tags
 release = '2025'

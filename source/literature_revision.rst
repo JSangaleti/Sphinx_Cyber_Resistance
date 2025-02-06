@@ -12,24 +12,17 @@ Revisão da Literatura
 =====================
 
 
-Jogos e Materiais Gamificados (*Serious Games*)
------------------------------------------------
+Catálogo dos Jogos e Materiais Gamificados (*Serious Games*) analisados
+-----------------------------------------------------------------------
+.. table::
+    :width: 100%
+    :align: center
 
-`OverTheWire`_
-^^^^^^^^^^^^^^
-
-`OverTheWire`_ é um site educacional que providencia alguns desafios de forma completamente gratuita. A ênfase do ensino desta plataforma é em cibersegurança. Contudo, também há modos cujo objetivo de desenvolvimento está em comandos Shell (linguagem utilizada nos emuladores de terminal Linux).
-
-É um excelente material para todos os níveis de estudantes ou amantes da computação, principalmente porque referencia as ferramentas necessárias para resolver os desafios, que, por sinal, são construídos de forma escalar, guiando o jogador por um caminho de conhecimento ao longo da trajetória determinada pela categoria.
-
-----------
-
-`Hacknet (2015)`_
-^^^^^^^^^^^^^^^^^
-
-`Hacknet (2015)`_ é um jogo que simula um pouco da experiência de um hacker, com um enredo bastante empolgante e misterioso em primeira pessoa, trazendo uma maior imersão. Ao longo da história, o jogador vai fazendo novos contatos e participando de organizações cada vez maiores conforme desenvolve seu nível técnico, tudo isso realizando suas próprias escolhas nos desafios que o jogo propõe.
-
-Apesar de não ser um jogo voltado para o estudo científico da cibersegurança, a forma que ele imerge o jogador para sua história e mistérios motiva o usuário a continuar e querer saber cada vez mais do desenrolar das situações; de forma indireta, faz-lo entender e unir conceitos (de forma superficial) para atingir seus objetivos, o levando a novos níveis, novos desafios e novas histórias.
+    ====================  ======  =============  ===========  ======================  ===========  ================
+    Nome do jogo          Gênero  Licensa        Perspectiva  Artefatos educacionais  Propósito    Nichos abordados
+    ====================  ======  =============  ===========  ======================  ===========  ================
+    `CyberCIEGE (2013)`_  teste   Demo gratuita  3D           Simulação, perguntas    Treinamento  Defesa
+    ====================  ======  =============  ===========  ======================  ===========  ================
 
 ----------
 
@@ -42,6 +35,15 @@ Traz conceitos básicos de redes de computadores, mas não fornece muito materia
 
 ----------
 
+`Hacknet (2015)`_
+^^^^^^^^^^^^^^^^^
+
+`Hacknet (2015)`_ é um jogo que simula um pouco da experiência de um hacker, com um enredo bastante empolgante e misterioso em primeira pessoa, trazendo uma maior imersão. Ao longo da história, o jogador vai fazendo novos contatos e participando de organizações cada vez maiores conforme desenvolve seu nível técnico, tudo isso realizando suas próprias escolhas nos desafios que o jogo propõe.
+
+Apesar de não ser um jogo voltado para o estudo científico da cibersegurança, a forma que ele imerge o jogador para sua história e mistérios motiva o usuário a continuar e querer saber cada vez mais do desenrolar das situações; de forma indireta, faz-lo entender e unir conceitos (de forma superficial) para atingir seus objetivos, o levando a novos níveis, novos desafios e novas histórias.
+
+----------
+
 `KC7 (2024)`_
 ^^^^^^^^^^^^^
 
@@ -49,19 +51,14 @@ A `KC7 (2024)`_ é uma fundação de ensino gamificado, que traz
 
 Até então, este projeto é o mais próximo daquilo que buscamos desenvolver.
 
+----------
 
-Pontos fortes e fracos dos jogos analisados
--------------------------------------------
-.. table:: **Tabela**
-    :width: 100%
-    :align: center
+`OverTheWire`_
+^^^^^^^^^^^^^^
 
-    =====   =====
-      A     not A
-    =====   =====
-    False   True
-    True    False
-    =====   =====
+`OverTheWire`_ é um site educacional que providencia alguns desafios de forma completamente gratuita. A ênfase do ensino desta plataforma é em cibersegurança. Contudo, também há modos cujo objetivo de desenvolvimento está em comandos Shell (linguagem utilizada nos emuladores de terminal Linux).
+
+É um excelente material para todos os níveis de estudantes ou amantes da computação, principalmente porque referencia as ferramentas necessárias para resolver os desafios, que, por sinal, são construídos de forma escalar, guiando o jogador por um caminho de conhecimento ao longo da trajetória determinada pela categoria.
 
 
 Artigos
@@ -82,12 +79,16 @@ A proposta de estrutura de projeto e desenvolvimento do jogo apresentada consist
 
 * Análise preliminar: assim como em qualquer projeto, a análise preliminar é crucial; a etapa de análise preliminar é designada para o estudo do mercado-alvo, dos seus produtos existentes e público-alvo, traçando, assim, um escopo para que seja atingido, efetivamente, o objetivo principal. Também é nesta fase que se determina o orçamento, prazo, capacidade do time de desenvolvimento, todos os fatores que influenciam no sucesso ou fracasso do projeto. Desta forma, este documento visa buscar pontos fortes e fracos de materiais já existentes no mercado, planejando formas de evitar que esses pontos fracos estejam presentes em nosso projeto, assim como possíveis implementações de pontos fortes que venham a ser interessantes de acordo com nosso objetivo e escopo.
 
-* Projeto (*design*): os desenvolvedores devem se atentar a algumas estruturas de ensino e de jogo ao projetar; para isso, são disponibilizadas as estruturas DPE (*Design, Play, Experience*) e SGDA (*Serious Game Design Assesment*). A estrutura DPE enfatiza a importância da experiência do jogador sobre as mecânicas e estética de jogo. A estrutura SGDA contempla os propósitos de entretenimento e seriedade de um jogo, com os seguintes componentes: propósito; conteúdo; ficção; mecânica; estética; sistema de jogo.
+* Projeto (*design*): de acordo com o artigo, os desenvolvedores devem se atentar a algumas estruturas de ensino e de jogo ao projetar; para isso, são disponibilizadas as estruturas DPE (*Design, Play, Experience*) e SGDA (*Serious Game Design Assesment*). A estrutura DPE enfatiza a importância da experiência do jogador sobre as mecânicas e estética de jogo. A estrutura SGDA contempla os propósitos de entretenimento e seriedade de um jogo, com os seguintes componentes: propósito; conteúdo; ficção; mecânica; estética; sistema de jogo.
 
-* Desenvolvimento:
+* Desenvolvimento: o autor explica, nesta seção, que se faz necessário alguns cuidados para balancear os 3 principais fatores limitantes para um projeto: tempo, competência e recursos financeiros. Neste projeto, para interceder estes pilares básicos, conta-se com voluntários e bolsistas da Universidade Tecnológica Federal do Paraná, disciplinados por um cronograma com prazos de entrega que atendem ao aprendizado do uso de ferramentas e *frameworks* e ao desenvolvimento do jogo.
 
-* Conteúdo de jogo:
+* Conteúdo de jogo: apontado como uma parte crucial no processo de desenvolvimento, o conteúdo de jogo consiste em equilibrar aprendizado pedagógico com diversão e imersão; esta é a etapa mais complexa, pois o aprendizado é demasiado variável, além de que, ao mesmo tempo que o material deve manter o jogador focado, motivado e entretido, deve levar conhecimento didático a ele. Para isso, é necessário que haja testes com diferentes jogadores, colhendo seus *feedbacks* para, assim, aprimorar a experiência proporcionada pelo jogo.
 
-* Implantação:
+* Implantação: para distribuir o jogo, o escritor do artigo apresenta que serão necessárias técnicas de propaganda de imagem e estratégias de marketing para propagá-lo, aumentando, assim, os benefícios gerados pelo material desenvolvido.
 
-* Conteúdo de jogador:
+* Conteúdo de jogador: a fim de mapear com mais precisão a didática do material e equilibrá-la com o entretenimento do jogador, o artigo mostra que será necessário colher o aprendizado dos jogadores. Isso pode ser feito a partir de avaliações do jogador, questionários ou qualquer meio válido que comprove que o aprendizado do jogador condiz com a trilha de aprendizagem traçada no planejamento. Isso deve ser feito de forma dependente do contexto: formal ou informal, podendo ou não admitir possibilidades de intervenção externa.
+
+Com isso, conclui-se que o referente artigo traz uma abordagem de desenvolvimento de um *serious game* vista pelo ângulo da engenharia de software, destacando noções básicas do desenvolvimento geral de aplicações. Assim, além de trazer revisões de materiais já existentes em nosso meio de *serious games* de cibersegurança, apresenta um plano prático para a assimilação desse conteúdo e desenvolvimento de um material próprio.
+
+.. ----------

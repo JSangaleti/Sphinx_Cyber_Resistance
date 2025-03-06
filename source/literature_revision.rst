@@ -7,6 +7,7 @@
 
 .. referências dos artigos
 .. _`A Renewed Approach to Serious Games for Cyber Security (2015)`: https://ieeexplore.ieee.org/abstract/document/7158478
+.. _`Exploring Game Design for Cybersecurity Training (2012)`: https://ieeexplore.ieee.org/document/6392562
 
 Revisão da Literatura
 =====================
@@ -18,11 +19,18 @@ Catálogo dos Jogos e Materiais Gamificados (*Serious Games*) analisados
     :width: 100%
     :align: center
 
-    ====================  ======  =============  ===========  ======================  ===========  ================
-    Nome do jogo          Gênero  Licensa        Perspectiva  Artefatos educacionais  Propósito    Nichos abordados
-    ====================  ======  =============  ===========  ======================  ===========  ================
-    `CyberCIEGE (2013)`_  teste   Demo gratuita  3D           Simulação, perguntas    Treinamento  Defesa
-    ====================  ======  =============  ===========  ======================  ===========  ================
+    ====================  ====================  =============  ===========  ======================  ===========================  ===============================
+    Nome do jogo          Gênero                Licensa        Perspectiva  Artefatos educacionais  Propósito                    Nichos abordados
+    ====================  ====================  =============  ===========  ======================  ===========================  ===============================
+    `CyberCIEGE (2013)`_  Simulação             Demo gratuita  3D           Simulação, perguntas    Treinamento                  Defesa
+
+    `Hacknet (2015)`_     Simulação             Pago           2D           Simulação, prática      Entretenimento               Ataque, SO
+
+    `KC7 (2024)`_         Simulação             Gratuito       2D           Simulação, prática      Treinamento                  Ataque, BD (e SQL), LP, SO
+
+    `OverTheWire`_        Puzzle                Gratuito       CLI          Prática                 Entretenimento, aprendizado  SO, Bash, Redes de computadores
+    ====================  ====================  =============  ===========  ======================  ===========================  ===============================
+
 
 ----------
 
@@ -91,4 +99,8 @@ A proposta de estrutura de projeto e desenvolvimento do jogo apresentada consist
 
 Com isso, conclui-se que o referente artigo traz uma abordagem de desenvolvimento de um *serious game* vista pelo ângulo da engenharia de software, destacando noções básicas do desenvolvimento geral de aplicações. Assim, além de trazer revisões de materiais já existentes em nosso meio de *serious games* de cibersegurança, apresenta um plano prático para a assimilação desse conteúdo e desenvolvimento de um material próprio.
 
-.. ----------
+----------
+
+`Exploring Game Design for Cybersecurity Training`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+

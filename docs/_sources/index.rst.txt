@@ -11,6 +11,3 @@ Cyber Resistance
    techs
    literature_revision
    support
-
-
-

@@ -17,14 +17,14 @@ Revisão da Literatura
 =====================
 
 
-Catálogo dos Jogos e Materiais Gamificados (*Serious Games*) analisados
+Catálogo dos Jogos e Materiais Gamificados (*Serious Games*) Analisados
 -----------------------------------------------------------------------
 .. table::
     :width: 100%
     :align: center
 
     ====================  ====================  =============  ===========  ======================  ===========================  ===============================
-    Nome do jogo          Gênero                Licensa        Perspectiva  Artefatos educacionais  Propósito                    Nichos abordados
+    Nome do jogo          Gênero                Licença        Perspectiva  Artefatos educacionais  Propósito                    Nichos abordados
     ====================  ====================  =============  ===========  ======================  ===========================  ===============================
     `CyberCIEGE (2013)`_  Simulação             Demo gratuita  3D           Simulação, perguntas    Treinamento                  Defesa
 
@@ -41,7 +41,7 @@ Catálogo dos Jogos e Materiais Gamificados (*Serious Games*) analisados
 `CyberCIEGE (2013)`_
 ^^^^^^^^^^^^^^^^^^^^
 
-`CyberCIEGE (2013)`_ é um \"jogo\" que mais consiste num simulador, com vários tipos de recursos, que ensina e treina o jogador para preparar e configurar determinados cenários. Por exemplo, o jogo te coloca num escritório e pede que você configure um *proxy*, impedindo que as pessoas de dentro da organização acessem determinados tipos de conteúdos, e, ao fim, realiza uma simulação; caso a abordagem do usuário seja satisfatória, o jogo apresentará sucesso. Caso contrário, o tempo irá passar continuamente, e será possível perceber que os usuários estão acessados os sites indevidos, contraindo vírus para suas máquinas, fazendo com que a sua organização perca dinheiro.
+`CyberCIEGE (2013)`_ é um \"jogo\" que consiste num simulador, com vários tipos de recursos, que ensina e treina o jogador para preparar e configurar determinados cenários. Por exemplo, o jogo te coloca num escritório e pede que você configure um *proxy*, impedindo que as pessoas de dentro da organização acessem determinados tipos de conteúdos, e, ao fim, realiza uma simulação; caso a abordagem do usuário seja satisfatória, o jogo apresentará sucesso. Caso contrário, o tempo irá passar continuamente, e será possível perceber que os usuários estão acessando sites indevidos, contraindo vírus para suas máquinas, fazendo com que a sua organização perca dinheiro.
 
 Traz conceitos básicos de redes de computadores, mas não fornece muito material para que o usuário compreenda, de fato, o que está fazendo. Dessa forma, o jogador precisa pesquisar na internet para aprofundar melhor o conhecimento sobre aquilo que está sendo trabalhado.
 

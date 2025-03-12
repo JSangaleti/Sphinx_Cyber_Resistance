@@ -2,8 +2,12 @@
 .. _`OverTheWire`: https://overthewire.org/wargames/
 .. _`Hacknet (2015)`: https://store.steampowered.com/app/365450/Hacknet (2015)/
 .. _`CyberCIEGE (2013)`: https://nps.edu/web/c3o/CyberCIEGE (2013)
-.. _`KC7 (2024)`: https://KC7 (2024)cyber.com/
+.. _`KC7 (2024)`: https://kc7cyber.com/
 .. _`BitBurner (2021)`: https://store.steampowered.com/app/1812820/Bitburner/
+
+.. referências de aplicativos de ensino
+.. _`Ethical Hacking University (2021)`: https://play.google.com/store/apps/details?id=com.askills.edu.ethical.hacking.university&hl=en_US&gl=US
+.. _`HackerX (2020)`: https://play.google.com/store/apps/details?id=hacking.learnhacking.learn.hack.ethicalhacking.programming.coding.hackerx.cybersecurity&hl=en_US&gl=US
 
 .. referências dos artigos
 .. _`A Renewed Approach to Serious Games for Cyber Security (2015)`: https://ieeexplore.ieee.org/abstract/document/7158478
@@ -67,6 +71,29 @@ Até então, este projeto é o mais próximo daquilo que buscamos desenvolver.
 `OverTheWire`_ é um site educacional que providencia alguns desafios de forma completamente gratuita. A ênfase do ensino desta plataforma é em cibersegurança. Contudo, também há modos cujo objetivo de desenvolvimento está em comandos Shell (linguagem utilizada nos emuladores de terminal Linux).
 
 É um excelente material para todos os níveis de estudantes ou amantes da computação, principalmente porque referencia as ferramentas necessárias para resolver os desafios, que, por sinal, são construídos de forma escalar, guiando o jogador por um caminho de conhecimento ao longo da trajetória determinada pela categoria.
+
+
+Aplicações Mobile
+-----------------
+
+`Ethical Hacking University (2021)`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`Ethical Hacking University (2021)`_ é uma aplicação que proporciona um caminho de ensino baseado em módulos, com conteúdos específicos e aprofundados. 
+
+Conta com um sistema gamificado que bonifica as atividades do usuário, seja lendo notícias ou estudando os módulos e respondendo as questões de fixação; sua metologia de fixação servirá ao nosso jogo, que é baseada em explorar um conteúdo específico e responder questões referentes a ele para receber os pontos.
+
+O sistema de pontos serve para categorizar o usuário em níveis, que vão do 0 ao 20, cada um com um nome diferente, motivando aquele a continuar interagindo com a aplicação. Além disso, há conquistas para determinados feitos, como, por exemplo, ler todas as notícias todos os dias por *n* dias.
+
+As notícias contam com uma seção de comentários, permitindo que os usuários opinem e sejam respondidos por outras pessoas.
+
+
+`HackerX (2020)`_
+^^^^^^^^^^^^^^^^^
+
+Assim como o `Ethical Hacking University (2021)`_, o `HackerX (2020)`_ é uma aplicação que possui um caminho de ensino baseado em módulos, todos subdivididos em seções menores, que abrange desde o básico do Sistema Operacional Linux até as metodologias e ferramentas utilizadas por hackers éticos.
+
+Apesar de não aprofundar tanto no assunto da cibersegurança, é um material interessante pela forma que propõe um ensino leve, apresentando mais materiais para o usuário que deseje se aprofundar, com um sistema de fixação parecido com o do `Ethical Hacking University (2021)`_, mas sem bonificação.
 
 
 Artigos

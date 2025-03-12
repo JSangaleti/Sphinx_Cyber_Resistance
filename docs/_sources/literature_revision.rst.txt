@@ -87,6 +87,7 @@ O sistema de pontos serve para categorizar o usuário em níveis, que vão do 0 
 
 As notícias contam com uma seção de comentários, permitindo que os usuários opinem e sejam respondidos por outras pessoas.
 
+----------
 
 `HackerX (2020)`_
 ^^^^^^^^^^^^^^^^^

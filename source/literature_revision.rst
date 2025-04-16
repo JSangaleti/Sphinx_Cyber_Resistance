@@ -12,6 +12,7 @@
 .. referências dos artigos
 .. _`A Renewed Approach to Serious Games for Cyber Security (2015)`: https://ieeexplore.ieee.org/abstract/document/7158478
 .. _`Exploring Game Design for Cybersecurity Training (2012)`: https://ieeexplore.ieee.org/document/6392562
+.. _`Survey of Cybersecurity Education through Gamification (2016)`: 
 
 Revisão da Literatura
 =====================
@@ -129,6 +130,37 @@ Com isso, conclui-se que o referente artigo traz uma abordagem de desenvolviment
 
 ----------
 
-`Exploring Game Design for Cybersecurity Training`_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+`Exploring Game Design for Cybersecurity Training (2012)`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+O presente artigo traz informações voltadas aos instrumentos pedagógicos e sua relação com o entretenimento no nicho da cibersegurança. O autor enfatisa a necessidade do treinamento de cibersegurança detalhando tópicos básicos e aprofundando-os até técnicas avançadas utilizadas por hackers maliciosos.
+
+A didática apresentada pela obra descreve uma metodologia que buscamos para o nosso projeto, que consiste em uma trilha de ensino gamificada que aborda conceitos da cibersegurança de forma aprofundada, mas modularizadas e dissipadas em pequenas missões que, ao fim, bonificam o jogador, motivando-o. Além disso, o material não deve ser lecionado de forma breve, então, faz-se necessário que objetos básicos de ensino sejam retomados constantemente ao longo das trilhas, além de relacionar as trilhas, unindo as linhas de raciocínio para materializar melhor os objetos de estudo.
+
+No conteúdo de interesse do artigo também são apresentadas questões importantes para a definição do nosso projeto. Entre elas, tópicos que devem ser abordados, que englobam tanto problemas de proteção pessoal quanto parâmetros que devem ser planejados no desenvolvimento de softwares para evitar falhas e vulnerabilidades.
+
+Dentre as problemáticas de proteção pessoal, temos:
+
+* Emails e anexos estranhos;
+
+* Implicações de manipular dados sensíveis em público (como senhas e cartões de crédito);
+
+* Uso de softwares pessoais no ambiente de trabalho.
+
+Dentre as problemáticas de tecnologias da informação, temos:
+
+* Conformidade com requisitos de segurança;
+
+* Implementação de novas tecnologias;
+
+* Monitoramento de tráfego autorizado e não-autorizado da web;
+
+* Gerenciamento de sistemas e de redes para controle de acesso;
+
+* Backup de dados e procedimentos de armazenamento;
+
+* Acesso físico a espaços não-autorizados.
+
+Outro ponto de atenção que é mostrado pelo escritor trata sobre modalidadesde ensino, que se baseiam em: salas de aula virtuais, laboratórios virtuais, sessões de teleconferência, sessões instruídas, eventos regulares, pôsteres com lista do que fazer e do que não fazer, protetores de tela com alerta, jornais periódicos, seminários com confraternização e programas de incentivo.
+
+O ideal seria aplicar todas essas metodologias, mas é necessário conciliar o interesse dos participantes, o objetivo do treinamento, o tempo e o orçamento.

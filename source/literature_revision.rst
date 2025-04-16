@@ -4,6 +4,7 @@
 .. _`CyberCIEGE (2013)`: https://nps.edu/web/c3o/CyberCIEGE (2013)
 .. _`KC7 (2024)`: https://kc7cyber.com/
 .. _`BitBurner (2021)`: https://store.steampowered.com/app/1812820/Bitburner/
+.. _`How To Hack In? (2023)`: https://store.steampowered.com/app/1199830/How_To_Hack_In/
 
 .. referências de aplicativos de ensino
 .. _`Ethical Hacking University (2021)`: https://play.google.com/store/apps/details?id=com.askills.edu.ethical.hacking.university&hl=en_US&gl=US
@@ -24,17 +25,19 @@ Catálogo dos Jogos e Materiais Gamificados (*Serious Games*) Analisados
     :width: 100%
     :align: center
 
-    ====================  ====================  =============  ===========  ======================  ===========================  ===============================
-    Nome do jogo          Gênero                Licença        Perspectiva  Artefatos educacionais  Propósito                    Nichos abordados
-    ====================  ====================  =============  ===========  ======================  ===========================  ===============================
-    `CyberCIEGE (2013)`_  Simulação             Demo gratuita  3D           Simulação, perguntas    Treinamento                  Defesa
+    =========================  ====================  =============  ===========  ======================  ===========================  ===============================
+    Nome do jogo               Gênero                Licença        Perspectiva  Artefatos educacionais  Propósito                    Nichos abordados
+    =========================  ====================  =============  ===========  ======================  ===========================  ===============================
+    `CyberCIEGE (2013)`_       Simulação, Sandbox    Demo gratuita  3D           Simulação, perguntas    Treinamento                  Defesa
 
-    `Hacknet (2015)`_     Simulação             Pago           2D           Simulação, prática      Entretenimento               Ataque, SO
+    `Hacknet (2015)`_          Simulação, RPG        Pago           2D           Simulação, prática      Entretenimento               Ataque, SO
 
-    `KC7 (2024)`_         Simulação             Gratuito       2D           Simulação, prática      Treinamento                  Ataque, BD (e SQL), LP, SO
+    `KC7 (2024)`_              Simulação             Gratuito       2D           Simulação, prática      Treinamento                  Ataque, BD (e SQL), LP, SO
 
-    `OverTheWire`_        Puzzle                Gratuito       CLI          Prática                 Entretenimento, aprendizado  SO, Bash, Redes de computadores
-    ====================  ====================  =============  ===========  ======================  ===========================  ===============================
+    `OverTheWire`_             Puzzle                Gratuito       CLI          Prática                 Entretenimento, aprendizado  SO, Bash, Redes de computadores
+
+    `How To Hack In? (2023)`_  Simulação, RPG        Pago           Desktop      Simulação, prática      Entretenimento               Bash, Redes de computadores
+    =========================  ====================  =============  ===========  ======================  ===========================  ===============================
 
 
 ----------
@@ -54,6 +57,13 @@ Traz conceitos básicos de redes de computadores, mas não fornece muito materia
 `Hacknet (2015)`_ é um jogo que simula um pouco da experiência de um hacker, com um enredo bastante empolgante e misterioso em primeira pessoa, trazendo uma maior imersão. Ao longo da história, o jogador vai fazendo novos contatos e participando de organizações cada vez maiores conforme desenvolve seu nível técnico, tudo isso realizando suas próprias escolhas nos desafios que o jogo propõe.
 
 Apesar de não ser um jogo voltado para o estudo científico da cibersegurança, a forma que ele imerge o jogador para sua história e mistérios motiva o usuário a continuar e querer saber cada vez mais do desenrolar das situações; de forma indireta, faz-lo entender e unir conceitos (de forma superficial) para atingir seus objetivos, o levando a novos níveis, novos desafios e novas histórias.
+
+----------
+
+`How To Hack In? (2023)`_
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
 
 ----------
 
@@ -164,3 +174,5 @@ Dentre as problemáticas de tecnologias da informação, temos:
 Outro ponto de atenção que é mostrado pelo escritor trata sobre modalidadesde ensino, que se baseiam em: salas de aula virtuais, laboratórios virtuais, sessões de teleconferência, sessões instruídas, eventos regulares, pôsteres com lista do que fazer e do que não fazer, protetores de tela com alerta, jornais periódicos, seminários com confraternização e programas de incentivo.
 
 O ideal seria aplicar todas essas metodologias, mas é necessário conciliar o interesse dos participantes, o objetivo do treinamento, o tempo e o orçamento.
+
+Uma parte do conteúdo descreve diferentes gêneros de jogos e como esses estilos podem servir como ferramenta educacional, que nos serviu muito bem, principalmente, como uma ferramenta para analisar jogos e materiais gamificados, permitindo que nos atentemos melhor às mecânicas aplicadas e como elas podem servir didaticamente.

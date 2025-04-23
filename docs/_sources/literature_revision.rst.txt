@@ -1,5 +1,10 @@
-.. referências dos jogos
+.. material gamificado
+.. _`HackTheBox (2017)`: https://www.hackthebox.com/
+.. _`HackTheBox Academy (2020)`: https://academy.hackthebox.com/
 .. _`OverTheWire`: https://overthewire.org/wargames/
+.. _`TryHackMe (2018)`: https://tryhackme.com/
+
+.. referências dos jogos
 .. _`Hacknet (2015)`: https://store.steampowered.com/app/365450/Hacknet (2015)/
 .. _`CyberCIEGE (2013)`: https://nps.edu/web/c3o/CyberCIEGE (2013)
 .. _`KC7 (2024)`: https://kc7cyber.com/
@@ -25,22 +30,55 @@ Catálogo dos Jogos e Materiais Gamificados (*Serious Games*) Analisados
     :width: 100%
     :align: center
 
-    =========================  ====================  =============  ===========  ======================  ===========================  ===============================
-    Nome do jogo               Gênero                Licença        Perspectiva  Artefatos educacionais  Propósito                    Nichos abordados
-    =========================  ====================  =============  ===========  ======================  ===========================  ===============================
-    `CyberCIEGE (2013)`_       Simulação, Sandbox    Demo gratuita  3D           Simulação, perguntas    Treinamento                  Defesa
+    ============================  ==========================  =============  ===========  ========================================================================  ============================  ==============================================
+    Nome do material              Gênero                      Licença        Perspectiva  Artefatos educacionais                                                    Propósito                     Nichos abordados
+    ============================  ==========================  =============  ===========  ========================================================================  ============================  ==============================================
+    `CyberCIEGE (2013)`_          Simulação, ensino, sandbox  Demo gratuita  3D           Simulação, perguntas                                                      Treinamento                   Defesa
 
-    `Hacknet (2015)`_          Simulação, RPG        Pago           2D           Simulação, prática      Entretenimento               Ataque, SO
+    `HackTheBox (2017)`_          Simulação, ensino           Freemium       Desktop      Simulação, prática, material de leitura, material audiovisual, perguntas  Treinamento, aprendizagem     Ataque, SO, SQL, Redes de Computadores, Bash
 
-    `KC7 (2024)`_              Simulação             Gratuito       2D           Simulação, prática      Treinamento                  Ataque, BD (e SQL), LP, SO
+    `HackTheBox Academy (2020)`_  Ensino                      Freemium       Desktop      Prática, material de leitura, material audiovisual, perguntas             Aprendizagem                  Ataque, defesa, SO, SQL, Redes de Computadores
 
-    `OverTheWire`_             Puzzle                Gratuito       CLI          Prática                 Entretenimento, aprendizado  SO, Bash, Redes de computadores
+    `Hacknet (2015)`_             Simulação, RPG              Pago           2D           Simulação, prática                                                        Entretenimento                Ataque, SO
 
-    `How To Hack In? (2023)`_  Simulação, RPG        Pago           Desktop      Simulação, prática      Entretenimento               Bash, Redes de computadores
-    =========================  ====================  =============  ===========  ======================  ===========================  ===============================
+    `How To Hack In? (2023)`_     Simulação, RPG              Pago           Desktop      Simulação, prática                                                        Entretenimento                Bash, Redes de Computadores
 
+    `KC7 (2024)`_                 Simulação                   Gratuito       2D           Simulação, prática                                                        Treinamento, aprendizagem     Ataque, BD, SQL, LP, SO
+
+    `OverTheWire`_                Puzzle                      Gratuito       CLI          Prática                                                                   Entretenimento, aprendizagem  SO, Bash, Redes de Computadores
+
+    `TryHackMe (2018)`_           Simulação, ensino           Freemium       Desktop      Simulação, prática, material de leitura, material audiovisual, perguntas  Treinamento, aprendizagem
+    ============================  ==========================  =============  ===========  ========================================================================  ============================  ==============================================
+
+
+Materiais Gamificados
+---------------------
+
+`HackTheBox (2017)`_/`HackTheBox Academy (2020)`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`HackTheBox (2017)`_, também conhecido pela sigla HTB, é uma plataforma gamificada com foco em treinamento de segurança ofensiva. Proporciona desafios para aqueles que desejam testar seus conhecimentos sobre a segurança das variadas áreas da computação em cenários similares aos reais, como websites e servidores.
+
+Pouco tempo depois da fundação da plataforma HTB, foi criado o `HackTheBox Academy (2020)`_, com lições
 
 ----------
+
+`TryHackMe (2018)`_
+^^^^^^^^^^^^^^^^^^^
+
+----------
+
+`OverTheWire`_
+^^^^^^^^^^^^^^
+
+`OverTheWire`_ é um site educacional que providencia alguns desafios de forma completamente gratuita. A ênfase do ensino desta plataforma é em cibersegurança. Contudo, também há modos cujo objetivo de desenvolvimento está em comandos Shell (linguagem utilizada nos emuladores de terminal Linux).
+
+É um excelente material para todos os níveis de estudantes ou amantes da computação, principalmente porque referencia as ferramentas necessárias para resolver os desafios, que, por sinal, são construídos de forma escalar, guiando o jogador por um caminho de conhecimento ao longo da trajetória determinada pela categoria.
+
+----------
+
+Jogos
+-----
 
 `CyberCIEGE (2013)`_
 ^^^^^^^^^^^^^^^^^^^^
@@ -73,15 +111,6 @@ Apesar de não ser um jogo voltado para o estudo científico da cibersegurança,
 A `KC7 (2024)`_ é uma fundação de ensino gamificado, que traz 
 
 Até então, este projeto é o mais próximo daquilo que buscamos desenvolver.
-
-----------
-
-`OverTheWire`_
-^^^^^^^^^^^^^^
-
-`OverTheWire`_ é um site educacional que providencia alguns desafios de forma completamente gratuita. A ênfase do ensino desta plataforma é em cibersegurança. Contudo, também há modos cujo objetivo de desenvolvimento está em comandos Shell (linguagem utilizada nos emuladores de terminal Linux).
-
-É um excelente material para todos os níveis de estudantes ou amantes da computação, principalmente porque referencia as ferramentas necessárias para resolver os desafios, que, por sinal, são construídos de forma escalar, guiando o jogador por um caminho de conhecimento ao longo da trajetória determinada pela categoria.
 
 
 Aplicações Mobile
